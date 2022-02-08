@@ -6,7 +6,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello():    
-    return 'Welcome irdan code!'
+    return 'Welcome irdcccan code!'
 
 @app.route('/stub')
 def stub():
